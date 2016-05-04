@@ -1,0 +1,6 @@
+﻿namespace Kanonji
+{
+	interface IModifierOfUIVertex
+	{
+	}
+}
